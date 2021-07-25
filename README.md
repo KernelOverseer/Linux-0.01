@@ -251,25 +251,3 @@ hacking.
 		Petersgatan 2 A 2
 		00140 Helsingfors 14
 		FINLAND
-About
-1st version of Linux Kernel
-
-ftp.kernel.org/pub/linux/kernel/historic/
-Resources
- Readme
-Releases
-No releases published
-Packages
-No packages published
-Languages
-C
-79.9%
- 
-Assembly
-13.8%
- 
-Makefile
-5.4%
- 
-C++
-0.9%
